@@ -62,7 +62,7 @@ start() {
 	RETVAL=$?
 	sleep 1
 
-	logger -s -p INFO -t usb_gadget Enabled default usb gadget
+	logger -s -p INFO -t usb_gadget Enabled default usb gadget7:08
 }
 
 stop() {
